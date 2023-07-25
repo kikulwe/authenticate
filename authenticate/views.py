@@ -13,3 +13,9 @@ def signin(request):
 
 def signout():
     pass
+
+def signup(request):
+    return render(request, "authentication/signup.html")
+
+def signin(request):
+    return render(request, "authentication/signin") 
