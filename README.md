@@ -91,8 +91,7 @@ This program is intended for educational and demonstration purposes only. Use it
 
 ## Acknowledgments
 
-This authentication program is built using Django, HTML, and CSS. We acknowledge the valuable contributions of the Django community and the web development community as a whole, without which this project would not have been possible.
+This authentication program is built using Django,Python, HTML, and CSS. We acknowledge the valuable contributions of the Django community and the web development community as a whole, without which this project would not have been possible.
 
 ---
 
-Please note that this is a basic readme file template, and you may need to adjust the content to match the actual features and structure of your authentication program. Make sure to include relevant instructions, usage guidelines, and proper attribution to any third-party libraries or resources used in your project.
