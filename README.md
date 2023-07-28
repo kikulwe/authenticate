@@ -77,7 +77,7 @@ Follow the steps below to set up and run the authentication program locally on y
 
 You can customize the look and feel of the application by modifying the HTML and CSS files located in the relevant directories. Additionally, you can extend the functionality by adding new views and templates as needed.
 
-## Contribution
+## Contributions
 
 If you find any issues or have suggestions for improvement, feel free to open a pull request or create an issue in the GitHub repository. Your contributions are highly appreciated!
 
