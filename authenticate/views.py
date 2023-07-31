@@ -38,12 +38,13 @@ def signin(request):
     if request.method == 'POST':
         username = request.POST['username']
         pass1 = request.POST['pass1']
+
         user = authenticate(username=username, password=pass1)
 
         if user is not None:
-            login(request,user)
+            login(request, user)
             fname = user.first_name
-            return render(request, "authentication/index.html",{'fname': fname})
+            return render(request, "authentication/home.html",{'fname': fname})
 
         else:
             messages.error(request, "Bad Credentials")    
