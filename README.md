@@ -21,7 +21,7 @@ Follow the steps below to set up and run the authentication program locally on y
 1. Clone the repository to your local machine:
 
    ```bash
-   git clone https://github.com/your-username/authentication-program.git
+   git clone https://github.com/kikulwe/authenticate.git
    cd authentication-program
    ```
 
