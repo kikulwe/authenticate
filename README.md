@@ -91,7 +91,7 @@ This program is intended for educational and demonstration purposes only. Use it
 
 ## Acknowledgments
 
-This authentication program is built using Django,Python, HTML, and CSS. We acknowledge the valuable contributions of the Django community and the web development community as a whole, without which this project would not have been possible.
+This authentication program is built using Django,Python, HTML, and CSS. We acknowledge the valuable contributions of the Django community and the web development community as a whole.
 
 ---
 
