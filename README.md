@@ -1,7 +1,7 @@
 # Django Authentication Program
 
 ## Introduction.
-11111111
+1111111
 This is a simple authentication program built using Django, HTML, and CSS. The purpose of this program is to provide user authentication functionality, allowing users to register, log in, and log out of the application. The program uses Django's built-in authentication system and provides a user-friendly interface with HTML and CSS.
 
 ## Features
